@@ -1,4 +1,5 @@
 #!/usr/bin/python
+import errno
 import os, zipfile, pyunpack, sys
 import tkinter as tk
 from tkinter import filedialog
